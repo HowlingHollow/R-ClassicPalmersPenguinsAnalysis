@@ -1,4 +1,4 @@
-Penguins Sample R Document
+Palmer's Penguins Analysis with R
 ================
 Jared White
 2024-03-12
