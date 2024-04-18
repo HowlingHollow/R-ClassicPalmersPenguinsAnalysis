@@ -107,7 +107,7 @@ sd_avg_fl <- sd(bm_fl_cor$avg_fl)
 
 This is one of the most widely created correlation visuals in R. It
 shows a positive correlation between the total body mass of penguins in
-grams and the length of their flippers in millimeters. This sppecific
+grams and the length of their flippers in millimeters. This specific
 series of scatterplots also identifies the difference between the three
 species’ size and native islands.
 
@@ -169,7 +169,7 @@ composition of the entire population.
 
 #### Using the Dataset to Predict the Fastest-Swimming Species
 
-#### (and Why its not what this dataset might suggest)
+#### (and Why it's not what this dataset might suggest)
 
 According to [This Research
 Article](https://pubs.aip.org/aip/pof/article-abstract/35/6/061907/2897344/Hydrodynamic-performance-of-a-penguin-wing-Effect?redirectedFrom=fulltext)
